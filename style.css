@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,500;1,600&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif
+}
+
+
+
+.navbar{
+    background-color: #f6ebda;
+}
+
+/*CONTENT*/
+
+.kopi1{
+    width: 100px;
+    z-index: 1;
+}
+
+.main-menu {
+    background-color: #f6ebda;
+    width: 100%;
+    padding-bottom: 95px;
+    padding-top: 1px;
+}
+
+.content {
+    margin-top: 10%;
+    margin-left: 100px;
+    width: 500px;
+    margin-bottom: 18%;
+    background-color: #f6ebda;
+    z-index: 99;
+}
+.content h2{
+    color:#54462D;
+    font-weight: 600;
+}
+.content span{
+    color:orange;
+}
+.content p{
+    color:gray;
+    opacity: 1;
+    margin-bottom: -2px;
+}
+.content button {
+    background-color: #54462D;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: 25px;
+    border: 0;
+    border-radius: 90px;
+}
+
+/*POPULAR*/
+
+
+
+
+/*SERVICE*/
+
+.service {
+    margin-bottom: 10%;
+    margin-top: 1%;
+}
+
+.service img {
+    width: 130px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.service h5 {
+    color: #54462D;
+    font-weight: 600;
+}
+
+.service p{
+    font-weight: 500;
+}
+
